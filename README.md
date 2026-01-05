@@ -1,4 +1,4 @@
-# 📊 CIS – Customer Insights Summary
+# 📊 Customer Insights Summary
 
 ## 📌 Overview
 
